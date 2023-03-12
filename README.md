@@ -1,16 +1,21 @@
-### Glad to see you, settle down here and take hot water.✨ 
-
 <!--
-**1BitLog/1BitLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**1BitLog/1BitLog**  GitHub profile.
 -->
+## Glad to see you, settle down here and take hot water.✨
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=1bitlog&show_icons=true&theme=blueberry&count_private=true&hide=prs" />
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="left">
+    <img src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg title="Linux" width="50" height="50"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg title="EBash" width="50" height="50"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg title="Vim" width="50" height="50"/>
+
+<!--    <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg title="EBash" width="50" height="50"/>
+     <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg title="EBash" width="50" height="50"/>
+      <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg title="EBash" width="50" height="50"/>
+ -->
+
+</div>
+
+
